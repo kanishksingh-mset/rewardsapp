@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5193560789",
+    "project_id": "rewardsapp-53ecf",
+    "storage_bucket": "rewardsapp-53ecf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5193560789:android:27a0bdd65f8d00aeb9685c",
+        "android_client_info": {
+          "package_name": "com.example.rewardsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDswiimqcY-D_u9pdA-DwPa5bw8MgTUg8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
