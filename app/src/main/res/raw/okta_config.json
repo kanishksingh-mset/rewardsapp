@@ -1,0 +1,7 @@
+{
+  "client_id": "0oa10h6ffgyCWRBhX698",
+  "redirect_uri": "com.example.rewardsapp:/callback",
+  "end_session_redirect_uri": "com.example.rewardsapp:/logout",
+  "scopes": ["openid", "profile", "email"],
+  "issuer_uri": "https://trial-8412660.okta.com/oauth2/default"
+}
