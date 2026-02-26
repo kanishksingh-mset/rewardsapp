@@ -19,9 +19,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url = uri("https://artifactory.oktapreview.com/artifactory/maven-release") }
     }
 }
 
 rootProject.name = "rewardsapp"
 include(":app")
- 
